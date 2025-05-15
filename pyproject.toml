@@ -1,7 +1,7 @@
 [project]
 name = "agents"
 version = "0.1.0"
-description = "Add your description here"
+description = "LLM based agents - codebase supportin TEG 2025 Lectures"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
@@ -14,4 +14,5 @@ dependencies = [
 [tool.uv.workspace]
 members = [
     "react_agents",
+    "basic_agent",
 ]
