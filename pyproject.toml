@@ -18,4 +18,6 @@ members = [
     "basic_agent",
     "langgraph_studio",
     "langgraph_studio/multi_tool_react",
+    "multi-agent",
+    "multi-agent/multi_agent_react",
 ]
