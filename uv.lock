@@ -18,6 +18,7 @@ dependencies = [
     { name = "langchain-community" },
     { name = "langchain-openai" },
     { name = "langgraph" },
+    { name = "openai" },
 ]
 
 [package.metadata]
@@ -26,6 +27,7 @@ requires-dist = [
     { name = "langchain-community", specifier = ">=0.3.24" },
     { name = "langchain-openai", specifier = ">=0.3.16" },
     { name = "langgraph", specifier = ">=0.4.3" },
+    { name = "openai", specifier = ">=1.78.1" },
 ]
 
 [[package]]

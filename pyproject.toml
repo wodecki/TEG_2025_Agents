@@ -9,6 +9,7 @@ dependencies = [
     "langchain-community>=0.3.24",
     "langchain-openai>=0.3.16",
     "langgraph>=0.4.3",
+    "openai>=1.78.1",
 ]
 
 [tool.uv.workspace]
