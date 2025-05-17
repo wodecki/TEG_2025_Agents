@@ -15,4 +15,6 @@ dependencies = [
 members = [
     "react_agents",
     "basic_agent",
+    "langgraph_studio",
+    "langgraph_studio/multi_tool_react",
 ]
